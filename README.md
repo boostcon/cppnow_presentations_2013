@@ -8,7 +8,7 @@
 * Qt event loop, networking and I/O API	
 * Boris Schäling: Containers in Boost
 * Tony Van Eerd: Low Level Threading with C++11	
-* Leor Zolman: A Zephyr Overview of C++11
+* [Leor Zolman: A Zephyr Overview of C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/zephyr_cpp_overview.pdf)
 * Eric Niebler: A First Look at Proto-0x
 * Tony Van Eerd: Non-Allocating std::future/promise	
 * Ábel Sinkovics: Boosting MPL with Haskell elements
@@ -34,10 +34,10 @@
 * Larisse Voufo: Weak Hiding for C++ Concepts: via a Framework for Reasoning about Name Binding in Programming Languages	
 * Thiago Macieira: C++11 use in Qt5: Challanges and Solutions
 * Richard Saunders: Thread-safe and Thread-neutral Bags	
-* Boris Kolpackov: Practical C++11: What I Learned Adding C++11 Support to ODB
+* [Boris Kolpackov: Practical C++11: What I Learned Adding C++11 Support to ODB](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/practical-cxx11.pdf)
 * John Lakos: Applied Hierarchical Reuse: Capitalizing on Bloomberg’s Foundation Libraries
 * Joel Falcou, Mathias Gaunard: Boost.Dispatch – Generalized Tag Dispatching Infrastructure Library	
-* Karl Rupp: A Discussion of Selected Vienna-Libraries for Computational Science	
+* [Karl Rupp: A Discussion of Selected Vienna-Libraries for Computational Science](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/Rupp-Rudolf-Weinbub-Vienna-Libraries-Draft.pdf)
 * Michael Spencer: Alignment in C++: Use, Limitations, and Extension
 * Jens Weller, Jon Kalb: C++ Community Development
 
@@ -48,7 +48,7 @@
 * Rob Stewart: Multi-Threading With C++11 and Boost
 * Andrew Sutton: Concepts Lite: Constraining Templates with Predicates	
 * Alex Fabijanic: Look ma, “update DB to HTML5 using C++”, no hands!	
-* Boris Kolpackov: ODB, an ORM for C++(11)
+* [Boris Kolpackov: ODB, an ORM for C++(11)](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/odb-orm-cxx11.pdf)
 * Alisdair Meredith: Allocators in C++11	
 * Boris Schäling: Boost.Graph for Beginners	
 * Marshall Clow: Fun with Tuples
