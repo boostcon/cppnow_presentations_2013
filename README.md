@@ -16,7 +16,7 @@
 ## Tuesday
 
 * Jeff Garland: Library in a Week: C++11 & Boost Cookbook (II)
-* Chandler Carruth: Keynote: Optimizing the Emergent Structures of C++
+* [Chandler Carruth: Keynote: Optimizing the Emergent Structures of C++](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/cppnow_2013keynote.pdf?raw=true)
 * Scott Schurr: Sweating the Small Stuff: Brace Initialization, Unions and Enums	
 * David Sankel: The Intellectual Ascent to Agda	
 * Hartmut Kaiser, Vinay Amatya: HPX: A C++ Standards Compliant Runtime System For Asynchronous Parallel And Distributed Computing
