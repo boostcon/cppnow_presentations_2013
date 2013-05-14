@@ -6,7 +6,7 @@
 * Daniel Quinlan: Keynote: C++ Use in High Performance Computing Within DOE: Past and Future
 * [Rob Stewart: Survey of Multi-Threaded Programming Support in C++11 and Boost](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/mt_survey.pdf?raw=true)
 * Thiago Macieira: Qt event loop, networking and I/O API	
-* Boris Schäling: Containers in Boost
+* [Boris Schäling: Containers in Boost]((https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/containers_in_boost.pdf?raw=true)
 * Tony Van Eerd: Low Level Threading with C++11	
 * [Leor Zolman: A Zephyr Overview of C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/zephyr_cpp_overview.pdf?raw=true)
 * Eric Niebler: A First Look at Proto-0x
