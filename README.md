@@ -4,7 +4,7 @@
 
 * [Jeff Garland:Library in a Week: C++11 & Boost Cookbook (I)](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/2013_library_in_a_week_day1.pdf?raw=true)
 * Daniel Quinlan: Keynote: C++ Use in High Performance Computing Within DOE: Past and Future
-* Rob Stewart: Survey of Multi-Threaded Programming Support in C++11 and Boost	
+* [Rob Stewart: Survey of Multi-Threaded Programming Support in C++11 and Boost](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/mt_survey.pdf?raw=true)
 * Qt event loop, networking and I/O API	
 * Boris Schäling: Containers in Boost
 * Tony Van Eerd: Low Level Threading with C++11	
