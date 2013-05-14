@@ -20,7 +20,7 @@
 * Scott Schurr: Sweating the Small Stuff: Brace Initialization, Unions and Enums	
 * David Sankel: The Intellectual Ascent to Agda	
 * Hartmut Kaiser, Vinay Amatya: HPX: A C++ Standards Compliant Runtime System For Asynchronous Parallel And Distributed Computing
-* Edouard Alligand: Scaling with C++11	
+* [Edouard Alligand: Scaling with C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/scaling_with_cpp11.pdf?raw=true)
 * Phil Miller, Laxmikant Kale, Ramprasad Venkataraman: Parallel Programming using Charm++	
 * John Bandela: Easy Binary Compatible C++ Interfaces Across Compilers
 * Michael Wong: Transactional Memory in C++	
