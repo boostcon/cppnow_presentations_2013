@@ -29,7 +29,7 @@
 
 ## Wednesday
 * Jeff Garland: Library in a Week: C++11 & Boost Cookbook (III)
-* [Stanley Lippman: Keynote: yet another paradigm shift – A Meta4 model of concurrency](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/yaps_cppnow_2013.pdf?raw=true) [pptx](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/yaps_cppnow_2013.pptx?raw=true)
+* [Stanley Lippman: Keynote: yet another paradigm shift – A Meta4 model of concurrency](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/yaps_cppnow_2013.pdf?raw=true) | [pptx Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/yaps_cppnow_2013.pptx?raw=true)
 * Joel de Guzman: Inside Spirit X3: Redesigning Boost.Spirit for C++11	
 * Larisse Voufo: Weak Hiding for C++ Concepts: via a Framework for Reasoning about Name Binding in Programming Languages	
 * Thiago Macieira: C++11 use in Qt5: Challanges and Solutions
