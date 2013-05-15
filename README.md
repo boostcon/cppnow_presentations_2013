@@ -36,7 +36,7 @@
 * Richard Saunders: Thread-safe and Thread-neutral Bags	
 * [Boris Kolpackov: Practical C++11: What I Learned Adding C++11 Support to ODB](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/practical-cxx11.pdf?raw=true)
 * John Lakos: Applied Hierarchical Reuse: Capitalizing on Bloomberg’s Foundation Libraries
-* [Joel Falcou, Mathias Gaunard: Boost.Dispatch – Generalized Tag Dispatching Infrastructure Library]() [Slideshare](http://fr.slideshare.net/joelfalcou/cppnow/)
+* [Joel Falcou, Mathias Gaunard: Boost.Dispatch – Generalized Tag Dispatching Infrastructure Library](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/boost_dispatch.pdf?raw=true) [Slideshare](http://fr.slideshare.net/joelfalcou/cppnow/)
 * [Karl Rupp: A Discussion of Selected Vienna-Libraries for Computational Science](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/Rupp-Rudolf-Weinbub-Vienna-Libraries-Draft.pdf?raw=true)
 * Michael Spencer: Alignment in C++: Use, Limitations, and Extension
 * Jens Weller, Jon Kalb: C++ Community Development
