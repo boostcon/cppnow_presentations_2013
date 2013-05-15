@@ -6,7 +6,7 @@
 * Daniel Quinlan: Keynote: C++ Use in High Performance Computing Within DOE: Past and Future
 * [Rob Stewart: Survey of Multi-Threaded Programming Support in C++11 and Boost](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/mt_survey.pdf?raw=true)
 * Thiago Macieira: Qt event loop, networking and I/O API	
-* [Boris Schäling: Containers in Boost]((https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/containers_in_boost.pdf?raw=true)
+* [Boris Schäling: Containers in Boost](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/containers_in_boost.pdf?raw=true)
 * Tony Van Eerd: Low Level Threading with C++11	
 * [Leor Zolman: A Zephyr Overview of C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/zephyr_cpp_overview.pdf?raw=true)
 * Eric Niebler: A First Look at Proto-0x
@@ -18,7 +18,7 @@
 * Jeff Garland: Library in a Week: C++11 & Boost Cookbook (II)
 * [Chandler Carruth: Keynote: Optimizing the Emergent Structures of C++](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/cppnow_2013keynote.pdf?raw=true)
 * Scott Schurr: Sweating the Small Stuff: Brace Initialization, Unions and Enums	
-* David Sankel: The Intellectual Ascent to Agda	
+* David Sankel: The Intellectual Ascent to Agda
 * Hartmut Kaiser, Vinay Amatya: HPX: A C++ Standards Compliant Runtime System For Asynchronous Parallel And Distributed Computing
 * [Edouard Alligand: Scaling with C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/scaling_with_cpp11.pdf?raw=true)
 * Phil Miller, Laxmikant Kale, Ramprasad Venkataraman: Parallel Programming using Charm++	
