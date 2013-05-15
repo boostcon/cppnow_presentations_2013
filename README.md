@@ -29,14 +29,14 @@
 
 ## Wednesday
 * Jeff Garland: Library in a Week: C++11 & Boost Cookbook (III)
-* Stanley Lippman: Keynote: yet another paradigm shift (yaps) – (A Meta4 model of concurrency)
+* [Stanley Lippman: Keynote: yet another paradigm shift – A Meta4 model of concurrency](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/yaps_cppnow_2013.pdf?raw=true) [pptx](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/yaps_cppnow_2013.pptx?raw=true)
 * Joel de Guzman: Inside Spirit X3: Redesigning Boost.Spirit for C++11	
 * Larisse Voufo: Weak Hiding for C++ Concepts: via a Framework for Reasoning about Name Binding in Programming Languages	
 * Thiago Macieira: C++11 use in Qt5: Challanges and Solutions
 * Richard Saunders: Thread-safe and Thread-neutral Bags	
 * [Boris Kolpackov: Practical C++11: What I Learned Adding C++11 Support to ODB](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/practical-cxx11.pdf?raw=true)
 * John Lakos: Applied Hierarchical Reuse: Capitalizing on Bloomberg’s Foundation Libraries
-* [Joel Falcou, Mathias Gaunard: Boost.Dispatch – Generalized Tag Dispatching Infrastructure Library](http://fr.slideshare.net/joelfalcou/cppnow/)
+* [Joel Falcou, Mathias Gaunard: Boost.Dispatch – Generalized Tag Dispatching Infrastructure Library]() [Slideshare](http://fr.slideshare.net/joelfalcou/cppnow/)
 * [Karl Rupp: A Discussion of Selected Vienna-Libraries for Computational Science](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/Rupp-Rudolf-Weinbub-Vienna-Libraries-Draft.pdf?raw=true)
 * Michael Spencer: Alignment in C++: Use, Limitations, and Extension
 * Jens Weller, Jon Kalb: C++ Community Development
