@@ -31,7 +31,7 @@
 * Jeff Garland: Library in a Week: C++11 & Boost Cookbook (III)
 * [Stanley Lippman: Keynote: yet another paradigm shift – A Meta4 model of concurrency](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/yaps_cppnow_2013.pdf?raw=true) | [pptx Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/yaps_cppnow_2013.pptx?raw=true)
 * Joel de Guzman: Inside Spirit X3: Redesigning Boost.Spirit for C++11	
-* Larisse Voufo: Weak Hiding for C++ Concepts: via a Framework for Reasoning about Name Binding in Programming Languages	
+* [Larisse Voufo: Weak Hiding for C++ Concepts: via a Framework for Reasoning about Name Binding in Programming Languages](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/weak_hiding.pdf?raw=true) | [PPTX Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/weak_hiding.pptx?raw=true)
 * Thiago Macieira: C++11 use in Qt5: Challanges and Solutions
 * [Richard Saunders: Thread-safe and Thread-neutral Bags](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/ThreadSafeBagsConf.pdf?raw=true)
 * [Boris Kolpackov: Practical C++11: What I Learned Adding C++11 Support to ODB](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/practical-cxx11.pdf?raw=true)
