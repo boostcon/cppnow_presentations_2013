@@ -19,7 +19,7 @@
 * [Chandler Carruth: Keynote: Optimizing the Emergent Structures of C++](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/cppnow_2013keynote.pdf?raw=true)
 * Scott Schurr: Sweating the Small Stuff: Brace Initialization, Unions and Enums	
 * David Sankel: The Intellectual Ascent to Agda
-* Hartmut Kaiser, Vinay Amatya: HPX: A C++ Standards Compliant Runtime System For Asynchronous Parallel And Distributed Computing
+* [Hartmut Kaiser, Vinay Amatya: HPX: A C++ Standards Compliant Runtime System For Asynchronous Parallel And Distributed Computing](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/managing_asynchrony_in_cpp?raw=true)
 * [Edouard Alligand: Scaling with C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/scaling_with_cpp11.pdf?raw=true)
 * Phil Miller, Laxmikant Kale, Ramprasad Venkataraman: Parallel Programming using Charm++	
 * John Bandela: Easy Binary Compatible C++ Interfaces Across Compilers
