@@ -22,7 +22,7 @@
 * [Hartmut Kaiser, Vinay Amatya: HPX: A C++ Standards Compliant Runtime System For Asynchronous Parallel And Distributed Computing](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/managing_asynchrony_in_cpp.pdf?raw=true)
 * [Edouard Alligand: Scaling with C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/scaling_with_cpp11.pdf?raw=true)
 * Phil Miller, Laxmikant Kale, Ramprasad Venkataraman: Parallel Programming using Charm++	
-* John Bandela: Easy Binary Compatible C++ Interfaces Across Compilers
+* John Bandela: Easy Binary Compatible C++ Interfaces Across Compilers | [ppt Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/easy_binary_compat.ppt?raw=true)
 * Michael Wong: Transactional Memory in C++	
 * [Dominik Charousset, Matthias Vallentin: libcppa – Designing an Actor Semantic for C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/cppnow13-libcppa.pdf?raw=true)
 * Thiago Macieira: Binary compatibility for library developers
