@@ -22,7 +22,7 @@
 * [Hartmut Kaiser, Vinay Amatya: HPX: A C++ Standards Compliant Runtime System For Asynchronous Parallel And Distributed Computing](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/managing_asynchrony_in_cpp.pdf?raw=true)
 * [Edouard Alligand: Scaling with C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/scaling_with_cpp11.pdf?raw=true)
 * Phil Miller, Laxmikant Kale, Ramprasad Venkataraman: Parallel Programming using Charm++	
-* John Bandela: Easy Binary Compatible C++ Interfaces Across Compilers | [ppt Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/easy_binary_compat.ppt?raw=true)
+* John Bandela: Easy Binary Compatible C++ Interfaces Across Compilers | [PPT Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/easy_binary_compat.ppt?raw=true)
 * Michael Wong: Transactional Memory in C++	
 * [Dominik Charousset, Matthias Vallentin: libcppa – Designing an Actor Semantic for C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/cppnow13-libcppa.pdf?raw=true)
 * Thiago Macieira: Binary compatibility for library developers
@@ -33,10 +33,10 @@
 * Joel de Guzman: Inside Spirit X3: Redesigning Boost.Spirit for C++11	
 * Larisse Voufo: Weak Hiding for C++ Concepts: via a Framework for Reasoning about Name Binding in Programming Languages	
 * Thiago Macieira: C++11 use in Qt5: Challanges and Solutions
-* Richard Saunders: Thread-safe and Thread-neutral Bags	
+* [Richard Saunders: Thread-safe and Thread-neutral Bags](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/ThreadSafeBagsConf.pdf?raw=true)
 * [Boris Kolpackov: Practical C++11: What I Learned Adding C++11 Support to ODB](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/practical-cxx11.pdf?raw=true)
 * John Lakos: Applied Hierarchical Reuse: Capitalizing on Bloomberg’s Foundation Libraries
-* [Joel Falcou, Mathias Gaunard: Boost.Dispatch – Generalized Tag Dispatching Infrastructure Library](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/boost_dispatch.pdf?raw=true) [Slideshare](http://fr.slideshare.net/joelfalcou/cppnow/)
+* [Joel Falcou, Mathias Gaunard: Boost.Dispatch – Generalized Tag Dispatching Infrastructure Library](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/boost_dispatch.pdf?raw=true) | [Slideshare](http://fr.slideshare.net/joelfalcou/cppnow/)
 * [Karl Rupp: A Discussion of Selected Vienna-Libraries for Computational Science](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/Rupp-Rudolf-Weinbub-Vienna-Libraries-Draft.pdf?raw=true)
 * Michael Spencer: Alignment in C++: Use, Limitations, and Extension
 * Jens Weller, Jon Kalb: C++ Community Development
