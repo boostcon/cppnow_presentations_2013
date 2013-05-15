@@ -24,7 +24,7 @@
 * Phil Miller, Laxmikant Kale, Ramprasad Venkataraman: Parallel Programming using Charm++	
 * John Bandela: Easy Binary Compatible C++ Interfaces Across Compilers
 * Michael Wong: Transactional Memory in C++	
-* Dominik Charousset, Matthias Vallentin: libcppa – Designing an Actor Semantic for C++11	
+* [Dominik Charousset, Matthias Vallentin: libcppa – Designing an Actor Semantic for C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/cppnow13-libcppa.pdf?raw=true)
 * Thiago Macieira: Binary compatibility for library developers
 
 ## Wednesday
