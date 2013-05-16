@@ -54,7 +54,7 @@
 * Marshall Clow: Fun with Tuples
 * Michael Caisse: Solving World Problems with Fusion	
 * Sumant Tambe: Standardizing the Data Distribution Service (DDS) API for Modern C++	
-* Sebastian Redl: Overloading the Member Access Operator
+* [Sebastian Redl: Overloading the Member Access Operator](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/overloading_dot.pdf?raw=true)
 * Vassil Vassilev: Interactive, Introspected C++ at CERN	
 * Bryce Adelstein-Lelbach: Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission	
 * Zoltan Porkolab: Debugging and Profiling C++ Template Metaprograms
