@@ -44,7 +44,7 @@
 ## Thursday
 * Jeff Garland: Library in a Week: C++11 & Boost Cookbook (IV)
 * Alex Fabijanic: Dynamic C++	
-* David Sankel: DeBruijn Bind: A more powerful bind that retains its simplicity	
+* [David Sankel: DeBruijn Bind: A more powerful bind that retains its simplicity](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/DeBruijn_Bind.pdf?raw=true) | [PPTX Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/DeBruijn_Bind.pptx?raw=true)
 * Rob Stewart: Multi-Threading With C++11 and Boost
 * Andrew Sutton: Concepts Lite: Constraining Templates with Predicates	
 * Alex Fabijanic: Look ma, “update DB to HTML5 using C++”, no hands!	
