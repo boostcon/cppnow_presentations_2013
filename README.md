@@ -35,7 +35,7 @@
 * Thiago Macieira: C++11 use in Qt5: Challanges and Solutions
 * [Richard Saunders: Thread-safe and Thread-neutral Bags](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/ThreadSafeBagsConf.pdf?raw=true)
 * [Boris Kolpackov: Practical C++11: What I Learned Adding C++11 Support to ODB](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/practical-cxx11.pdf?raw=true)
-* John Lakos: Applied Hierarchical Reuse: Capitalizing on Bloomberg’s Foundation Libraries
+* [John Lakos: Applied Hierarchical Reuse: Capitalizing on Bloomberg’s Foundation Libraries](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/accu2013.130511b.pdf?raw=true) | [PPTX Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/accu2013.130511b.pptx?raw=true)
 * [Joel Falcou, Mathias Gaunard: Boost.Dispatch – Generalized Tag Dispatching Infrastructure Library](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/boost_dispatch.pdf?raw=true) | [Slideshare](http://fr.slideshare.net/joelfalcou/cppnow/)
 * [Karl Rupp: A Discussion of Selected Vienna-Libraries for Computational Science](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/Rupp-Rudolf-Weinbub-Vienna-Libraries-Draft.pdf?raw=true)
 * Michael Spencer: Alignment in C++: Use, Limitations, and Extension
