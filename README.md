@@ -11,7 +11,7 @@
 * [Leor Zolman: A Zephyr Overview of C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/zephyr_cpp_overview.pdf?raw=true)
 * [Eric Niebler: A First Look at Proto-0x](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/proto-v5-preview.pdf?raw=true) | [PPTX Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/proto-v5-preview.pptx?raw=true)
 * Tony Van Eerd: Non-Allocating std::future/promise	
-* Ábel Sinkovics: Boosting MPL with Haskell elements
+* [Ábel Sinkovics: Boosting MPL with Haskell elements](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/boosting_mpl_with_haskell_elements.pdf?raw=true)
 
 ## Tuesday
 
