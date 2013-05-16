@@ -51,7 +51,7 @@
 * [Boris Kolpackov: ODB, an ORM for C++(11)](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/odb-orm-cxx11.pdf?raw=true)
 * Alisdair Meredith: Allocators in C++11	
 * Boris Schäling: Boost.Graph for Beginners	
-* Marshall Clow: Fun with Tuples
+* [Marshall Clow: Fun with Tuples](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/fun_with_tuples.pdf?raw=true)
 * Michael Caisse: Solving World Problems with Fusion	
 * Sumant Tambe: Standardizing the Data Distribution Service (DDS) API for Modern C++	
 * [Sebastian Redl: Overloading the Member Access Operator](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/overloading_dot.pdf?raw=true)
