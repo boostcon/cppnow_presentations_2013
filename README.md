@@ -38,7 +38,7 @@
 * John Lakos: Applied Hierarchical Reuse: Capitalizing on Bloomberg’s Foundation Libraries 
    [Part I](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/accu2013.130511b/accu2013.130511b_Part1of3.pdf?raw=true) | [Part II](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/accu2013.130511b/accu2013.130511b_Part2of3.pdf?raw=true) | [Part III](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/accu2013.130511b/accu2013.130511b_Part3of3.pdf?raw=true) | [PPTX Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/accu2013.130511.pptx?raw=true)
 * [Joel Falcou, Mathias Gaunard: Boost.Dispatch – Generalized Tag Dispatching Infrastructure Library](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/boost_dispatch.pdf?raw=true) | [Slideshare](http://fr.slideshare.net/joelfalcou/cppnow/)
-* [Karl Rupp: A Discussion of Selected Vienna-Libraries for Computational Science](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/Rupp-Rudolf-Weinbub-Vienna-Libraries-Draft.pdf?raw=true)
+* [Karl Rupp: A Discussion of Selected Vienna-Libraries for Computational Science](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/Rupp-Rudolf-Weinbub-Vienna-Libraries-Final.pdf?raw=true)
 * Michael Spencer: Alignment in C++: Use, Limitations, and Extension
 * Jens Weller, Jon Kalb: C++ Community Development
 
