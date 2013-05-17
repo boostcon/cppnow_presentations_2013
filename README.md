@@ -50,7 +50,7 @@
 * Andrew Sutton: Concepts Lite: Constraining Templates with Predicates	
 * Alex Fabijanic: Look ma, “update DB to HTML5 using C++”, no hands!	
 * [Boris Kolpackov: ODB, an ORM for C++(11)](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/odb-orm-cxx11.pdf?raw=true)
-* Alisdair Meredith: Allocators in C++11	
+* [Alisdair Meredith: Allocators in C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/cpp11_allocators.pdf?raw=true)
 * Boris Schäling: Boost.Graph for Beginners	
 * [Marshall Clow: Fun with Tuples](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/fun_with_tuples.pdf?raw=true)
 * Michael Caisse: Solving World Problems with Fusion	
