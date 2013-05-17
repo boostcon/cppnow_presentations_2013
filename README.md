@@ -62,7 +62,7 @@
 
 ## Friday
 * Jeff Garland: Library in a Week: C++11 & Boost Cookbook (V)
-* Richard Saunders, Clinton Jeffery: Dynamic, Recursive, Heterogeneous Types in Statically-Typed Languages	
+* [Richard Saunders, Clinton Jeffery: Dynamic, Recursive, Heterogeneous Types in Statically-Typed Languages](https://github.com/boostcon/cppnow_presentations_2013/blob/master/fri/DynRec.pdf?raw=true)
 * Julian Storer: The Projucer: Live coding with C++ and the LLVM JIT engine
 * Bart Janssens: Building finite-element matrix expressions with Boost Proto and the Eigen library
 * Louis Dionne: A system for resource deadlock prevention using intrusive dynamic analysis
