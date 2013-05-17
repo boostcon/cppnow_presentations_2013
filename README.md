@@ -51,8 +51,8 @@
 * [Alex Fabijanic: Look ma, “update DB to HTML5 using C++”, no hands!](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/LookMa.pdf?raw=true)
 * [Boris Kolpackov: ODB, an ORM for C++(11)](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/odb-orm-cxx11.pdf?raw=true)
 * [Alisdair Meredith: Allocators in C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/cpp11_allocators.pdf?raw=true)
-* Boris Schäling: Boost.Graph for Beginners	
-* [Marshall Clow: Fun with Tuples](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/fun_with_tuples.pdf?raw=true)
+* [Boris Schäling: Boost.Graph for Beginners](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/cpp11_allocators.pdf?raw=true)
+* [Marshall Clow: Fun with Tuples](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/boost_graph.pdf?raw=true)
 * Michael Caisse: Solving World Problems with Fusion	
 * Sumant Tambe: Standardizing the Data Distribution Service (DDS) API for Modern C++	
 * [Sebastian Redl: Overloading the Member Access Operator](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/overloading_dot.pdf?raw=true)
@@ -63,6 +63,6 @@
 ## Friday
 * Jeff Garland: Library in a Week: C++11 & Boost Cookbook (V)
 * Richard Saunders, Clinton Jeffery: Dynamic, Recursive, Heterogeneous Types in Statically-Typed Languages	
-* Julian Storer: The Projucer: Live coding with C++ and the LLVM JIT engine	
+* Julian Storer: The Projucer: Live coding with C++ and the LLVM JIT engine
 * Bart Janssens: Building finite-element matrix expressions with Boost Proto and the Eigen library
 * Louis Dionne: A system for resource deadlock prevention using intrusive dynamic analysis
