@@ -44,11 +44,11 @@
 
 ## Thursday
 * Jeff Garland: Library in a Week: C++11 & Boost Cookbook (IV)
-* Alex Fabijanic: Dynamic C++	
+* [Alex Fabijanic: Dynamic C++](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/DynamicCpp.pdf?raw=true)
 * [David Sankel: DeBruijn Bind: A more powerful bind that retains its simplicity](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/DeBruijn_Bind.pdf?raw=true) | [PPTX Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/DeBruijn_Bind.pptx?raw=true)
 * [Rob Stewart: Multi-Threading With C++11 and Boost](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/mt_with_cpp.pdf?raw=true)
 * [Andrew Sutton: Concepts Lite: Constraining Templates with Predicates](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/concepts-lite.pdf?raw=true)
-* Alex Fabijanic: Look ma, “update DB to HTML5 using C++”, no hands!	
+* [Alex Fabijanic: Look ma, “update DB to HTML5 using C++”, no hands!](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/LookMa.pdf?raw=true)
 * [Boris Kolpackov: ODB, an ORM for C++(11)](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/odb-orm-cxx11.pdf?raw=true)
 * [Alisdair Meredith: Allocators in C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/cpp11_allocators.pdf?raw=true)
 * Boris Schäling: Boost.Graph for Beginners	
