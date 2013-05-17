@@ -58,7 +58,7 @@
 * [Sebastian Redl: Overloading the Member Access Operator](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/overloading_dot.pdf?raw=true)
 * Vassil Vassilev: Interactive, Introspected C++ at CERN	
 * Bryce Adelstein-Lelbach: Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission	
-* Zoltan Porkolab: Debugging and Profiling C++ Template Metaprograms
+* [Zoltan Porkolab: Debugging and Profiling C++ Template Metaprograms](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/tmpdebug_cppnow13.pdf?raw=true)
 
 ## Friday
 * Jeff Garland: Library in a Week: C++11 & Boost Cookbook (V)
