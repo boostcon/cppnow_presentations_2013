@@ -7,10 +7,10 @@
 * [Rob Stewart: Survey of Multi-Threaded Programming Support in C++11 and Boost](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/mt_survey.pdf?raw=true)
 * Thiago Macieira: Qt event loop, networking and I/O API	
 * [Boris Schäling: Containers in Boost](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/containers_in_boost.pdf?raw=true)
-* Tony Van Eerd: Low Level Threading with C++11	
+* [Tony Van Eerd: Low Level Threading with C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/LowLevelThreadingWithCpp11-2013.ppt?raw=true)
 * [Leor Zolman: A Zephyr Overview of C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/zephyr_cpp_overview.pdf?raw=true)
 * [Eric Niebler: A First Look at Proto-0x](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/proto-v5-preview.pdf?raw=true) | [PPTX Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/proto-v5-preview.pptx?raw=true)
-* Tony Van Eerd: Non-Allocating std::future/promise	
+* [Tony Van Eerd: Non-Allocating std::future/promise](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/future_promise.pdf?raw=true)
 * [Ábel Sinkovics: Boosting MPL with Haskell elements](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/boosting_mpl_with_haskell_elements.pdf?raw=true)
 
 ## Tuesday
@@ -51,8 +51,8 @@
 * [Alex Fabijanic: Look ma, “update DB to HTML5 using C++”, no hands!](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/LookMa.pdf?raw=true)
 * [Boris Kolpackov: ODB, an ORM for C++(11)](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/odb-orm-cxx11.pdf?raw=true)
 * [Alisdair Meredith: Allocators in C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/cpp11_allocators.pdf?raw=true)
-* [Boris Schäling: Boost.Graph for Beginners](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/cpp11_allocators.pdf?raw=true)
-* [Marshall Clow: Fun with Tuples](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/boost_graph.pdf?raw=true)
+* [Boris Schäling: Boost.Graph for Beginners](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/boost_graph.pdf?raw=true)
+* [Marshall Clow: Fun with Tuples](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/fun_with_tuples.pdf?raw=true)
 * Michael Caisse: Solving World Problems with Fusion	
 * Sumant Tambe: Standardizing the Data Distribution Service (DDS) API for Modern C++	
 * [Sebastian Redl: Overloading the Member Access Operator](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/overloading_dot.pdf?raw=true)
