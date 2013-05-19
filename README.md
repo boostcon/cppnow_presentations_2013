@@ -67,4 +67,5 @@ Note: some of the presentations exceed GitHub's blob size limit of about 10MB.  
 * Jeff Garland: Library in a Week: C++11 & Boost Cookbook (V)
 * [Richard Saunders, Clinton Jeffery: Dynamic, Recursive, Heterogeneous Types in Statically-Typed Languages](https://github.com/boostcon/cppnow_presentations_2013/blob/master/fri/DynRec.pdf?raw=true)
 * Julian Storer: The Projucer: Live coding with C++ and the LLVM JIT engine
+* [Bart Janssens: Building finite-element matrix expressions with Boost Proto and the Eigen library](https://github.com/boostcon/cppnow_presentations_2013/blob/master/fri/proto-eigen-fem.pdf?raw=true) | [Sample Code](http://github.com/barche/eigen-proto)
 * [Louis Dionne: A system for resource deadlock prevention using intrusive dynamic analysis](http://ldionne.github.io/d2-cppnow-2013)
