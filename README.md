@@ -43,7 +43,8 @@ Note: some of the presentations exceed GitHub's blob size limit of about 10MB.  
 * [Joel Falcou, Mathias Gaunard: Boost.Dispatch – Generalized Tag Dispatching Infrastructure Library](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/boost_dispatch.pdf?raw=true) | [Slideshare](http://fr.slideshare.net/joelfalcou/cppnow/)
 * [Karl Rupp: A Discussion of Selected Vienna-Libraries for Computational Science](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/Rupp-Rudolf-Weinbub-Vienna-Libraries-Final.pdf?raw=true)
 * Michael Spencer: Alignment in C++: Use, Limitations, and Extension
-* Jens Weller, Jon Kalb: C++ Community Development
+* [Jon Kalb: The Hijacker's Guide to the Community](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/hijackers_guide.pdf?raw=true) | [Keynote Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/hijackers_guide.key?raw=true)
+* Jens Weller: C++ Community Development
 
 ## Thursday
 * Jeff Garland: Library in a Week: C++11 & Boost Cookbook (IV)
