@@ -58,7 +58,7 @@ Note: some of the presentations exceed GitHub's blob size limit of about 10MB.  
 * [Boris Schäling: Boost.Graph for Beginners](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/boost_graph.pdf?raw=true)
 * [Marshall Clow: Fun with Tuples](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/fun_with_tuples.pdf?raw=true)
 * Michael Caisse: Solving World Problems with Fusion
-* Sumant Tambe: Standardizing the Data Distribution Service (DDS) API for Modern C++
+* [Sumant Tambe: Standardizing the Data Distribution Service (DDS) API for Modern C++](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/omg-dds-psm-cpp.pdf?raw=true)
 * [Sebastian Redl: Overloading the Member Access Operator](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/overloading_dot.pdf?raw=true)
 * Vassil Vassilev: Interactive, Introspected C++ at CERN	
 * Bryce Adelstein-Lelbach: Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission | [PPTX Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/asio_serialization.pptx?raw=true)
