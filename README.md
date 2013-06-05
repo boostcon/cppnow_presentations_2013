@@ -57,7 +57,7 @@ Note: some of the presentations exceed GitHub's blob size limit of about 10MB.  
 * [Alisdair Meredith: Allocators in C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/cpp11_allocators.pdf?raw=true)
 * [Boris Schäling: Boost.Graph for Beginners](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/boost_graph.pdf?raw=true)
 * [Marshall Clow: Fun with Tuples](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/fun_with_tuples.pdf?raw=true)
-* Michael Caisse: Solving World Problems with Fusion
+* [Michael Caisse: Solving World Problems with Fusion](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/solving_world_problems_with_fusion.pdf?raw=true)
 * [Sumant Tambe: Standardizing the Data Distribution Service (DDS) API for Modern C++](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/omg-dds-psm-cpp.pdf?raw=true)
 * [Sebastian Redl: Overloading the Member Access Operator](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/overloading_dot.pdf?raw=true)
 * Vassil Vassilev: Interactive, Introspected C++ at CERN	
