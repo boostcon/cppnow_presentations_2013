@@ -8,7 +8,7 @@ Note: some of the presentations exceed GitHub's blob size limit of about 10MB.  
 * [Jeff Garland:Library in a Week: C++11 & Boost Cookbook (I)](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/2013_library_in_a_week_day1.pdf?raw=true)
 * Daniel Quinlan: Keynote: C++ Use in High Performance Computing Within DOE: Past and Future
 * [Rob Stewart: Survey of Multi-Threaded Programming Support in C++11 and Boost](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/mt_survey.pdf?raw=true)
-* Thiago Macieira: Qt event loop, networking and I/O API
+* [Thiago Macieira: Qt event loop, networking and I/O API](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/qt_event_loop.pdf?raw=true) | [Pipereader Source Code](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/pipereader.zip?raw=true)
 * [Boris Schäling: Containers in Boost](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/containers_in_boost.pdf?raw=true)
 * [Tony Van Eerd: Low Level Threading with C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/LowLevelThreadingWithCpp11-2013.ppt?raw=true)
 * [Leor Zolman: A Zephyr Overview of C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/zephyr_cpp_overview.pdf?raw=true)
@@ -28,14 +28,14 @@ Note: some of the presentations exceed GitHub's blob size limit of about 10MB.  
 * [John Bandela: Easy Binary Compatible C++ Interfaces Across Compilers](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/easy_binary_compat.pdf?raw=true) | [PPT Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/easy_binary_compat.ppt?raw=true)
 * Michael Wong: Transactional Memory in C++
 * [Dominik Charousset, Matthias Vallentin: libcppa – Designing an Actor Semantic for C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/cppnow13-libcppa.pdf?raw=true)
-* Thiago Macieira: Binary compatibility for library developers
+* [Thiago Macieira: Binary compatibility for library developers](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/binary_compat_for_cpp_devs.pdf?raw=true)
 
 ## Wednesday
 * Jeff Garland: Library in a Week: C++11 & Boost Cookbook (III)
 * [Stanley Lippman: Keynote: yet another paradigm shift – A Meta4 model of concurrency](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/yaps_cppnow_2013.pdf?raw=true) | [pptx Format](https://github.co[m/boostcon/cppnow_presentations_2013/blob/master/wed/yaps_cppnow_2013.pptx?raw=true)
 * [Joel de Guzman: Inside Spirit X3: Redesigning Boost.Spirit for C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/inside_spirit_x3.pdf?raw=true)  || [Part 1](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/inside_spirit_x3_p1_of_4.pdf?raw=true) | [Part 2](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/inside_spirit_x3_p2_of_4.pdf?raw=true) | [Part 3](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/inside_spirit_x3_p3_of_4.pdf?raw=true) | [Part 4](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/inside_spirit_x3_p4_of_4.pdf?raw=true)
 * [Larisse Voufo: Weak Hiding for C++ Concepts: via a Framework for Reasoning about Name Binding in Programming Languages](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/weak_hiding.pdf?raw=true) | [PPTX Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/weak_hiding.pptx?raw=true)
-* Thiago Macieira: C++11 use in Qt5: Challanges and Solutions
+* [Thiago Macieira: C++11 use in Qt5: Challanges and Solutions](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/cpp11_in_qt.pdf?raw=true)
 * [Richard Saunders: Thread-safe and Thread-neutral Bags](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/ThreadSafeBagsConf.pdf?raw=true)
 * [Boris Kolpackov: Practical C++11: What I Learned Adding C++11 Support to ODB](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/practical-cxx11.pdf?raw=true)
 * John Lakos: Applied Hierarchical Reuse: Capitalizing on Bloomberg’s Foundation Libraries 
