@@ -60,7 +60,7 @@ Note: some of the presentations exceed GitHub's blob size limit of about 10MB.  
 * [Michael Caisse: Solving World Problems with Fusion](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/solving_world_problems_with_fusion.pdf?raw=true)
 * [Sumant Tambe: Standardizing the Data Distribution Service (DDS) API for Modern C++](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/omg-dds-psm-cpp.pdf?raw=true)
 * [Sebastian Redl: Overloading the Member Access Operator](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/overloading_dot.pdf?raw=true)
-* Vassil Vassilev: Interactive, Introspected C++ at CERN	
+* [Vassil Vassilev: Interactive, Introspected C++ at CERN](https://www.dropbox.com/s/zv0gh5v249y3tzs/Interactive%2C%20Introspected%20C%2B%2B%20at%20CERN.pdf)
 * Bryce Adelstein-Lelbach: Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission | [PPTX Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/asio_serialization.pptx?raw=true)
 * [Zoltan Porkolab: Debugging and Profiling C++ Template Metaprograms](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/tmpdebug_cppnow13.pdf?raw=true)
 
