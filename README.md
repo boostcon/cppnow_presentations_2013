@@ -5,7 +5,7 @@ Note: some of the presentations exceed GitHub's blob size limit of about 10MB.  
 
 ## Monday
 
-* [Jeff Garland:Library in a Week: C++11 & Boost Cookbook (I)](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/2013_library_in_a_week_day1.pdf?raw=true)
+* [Jeff Garland:Library in a Week: C++11 & Boost Cookbook (I)](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/2013_library_in_a_week_day1.pdf?raw=true) | [Cookbook Website](https://github.com/rtsuk/liaw2013/wiki/)
 * Daniel Quinlan: Keynote: C++ Use in High Performance Computing Within DOE: Past and Future
 * [Rob Stewart: Survey of Multi-Threaded Programming Support in C++11 and Boost](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/mt_survey.pdf?raw=true)
 * [Thiago Macieira: Qt event loop, networking and I/O API](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/qt_event_loop.pdf?raw=true) | [Pipereader Source Code](https://github.com/boostcon/cppnow_presentations_2013/blob/master/mon/pipereader.zip?raw=true)
@@ -18,7 +18,7 @@ Note: some of the presentations exceed GitHub's blob size limit of about 10MB.  
 
 ## Tuesday
 
-* Jeff Garland: Library in a Week: C++11 & Boost Cookbook (II)
+* Jeff Garland: Library in a Week: C++11 & Boost Cookbook (II)  | [Cookbook Website](https://github.com/rtsuk/liaw2013/wiki/)
 * [Chandler Carruth: Keynote: Optimizing the Emergent Structures of C++](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/cppnow_2013keynote.pdf?raw=true)
 * [Scott Schurr: Sweating the Small Stuff: Brace Initialization, Unions and Enums](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/Cpp11_SweatingTheSmallStuff/Cpp11_SweatingTheSmallStuff_CppNow_13.pdf?raw=true) | [Code for AnyString](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/Cpp11_SweatingTheSmallStuff/)
 * [David Sankel: The Intellectual Ascent to Agda](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/intellectual_ascent_to_agda.pdf?raw=true) [pptx](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/intellectual_ascent_to_agda.pptx?raw=true)
@@ -31,7 +31,7 @@ Note: some of the presentations exceed GitHub's blob size limit of about 10MB.  
 * [Thiago Macieira: Binary compatibility for library developers](https://github.com/boostcon/cppnow_presentations_2013/blob/master/tue/binary_compat_for_cpp_devs.pdf?raw=true)
 
 ## Wednesday
-* Jeff Garland: Library in a Week: C++11 & Boost Cookbook (III)
+* Jeff Garland: Library in a Week: C++11 & Boost Cookbook (III) | [Cookbook Website](https://github.com/rtsuk/liaw2013/wiki/)
 * [Stanley Lippman: Keynote: yet another paradigm shift – A Meta4 model of concurrency](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/yaps_cppnow_2013.pdf?raw=true) | [pptx Format](https://github.co[m/boostcon/cppnow_presentations_2013/blob/master/wed/yaps_cppnow_2013.pptx?raw=true)
 * [Joel de Guzman: Inside Spirit X3: Redesigning Boost.Spirit for C++11](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/inside_spirit_x3.pdf?raw=true)  || [Part 1](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/inside_spirit_x3_p1_of_4.pdf?raw=true) | [Part 2](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/inside_spirit_x3_p2_of_4.pdf?raw=true) | [Part 3](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/inside_spirit_x3_p3_of_4.pdf?raw=true) | [Part 4](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/inside_spirit_x3_p4_of_4.pdf?raw=true)
 * [Larisse Voufo: Weak Hiding for C++ Concepts: via a Framework for Reasoning about Name Binding in Programming Languages](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/weak_hiding.pdf?raw=true) | [PPTX Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/wed/weak_hiding.pptx?raw=true)
@@ -47,7 +47,7 @@ Note: some of the presentations exceed GitHub's blob size limit of about 10MB.  
 * Jens Weller: C++ Community Development
 
 ## Thursday
-* Jeff Garland: Library in a Week: C++11 & Boost Cookbook (IV)
+* Jeff Garland: Library in a Week: C++11 & Boost Cookbook (IV) | [Cookbook Website](https://github.com/rtsuk/liaw2013/wiki/)
 * [Alex Fabijanic: Dynamic C++](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/DynamicCpp.pdf?raw=true)
 * [David Sankel: DeBruijn Bind: A more powerful bind that retains its simplicity](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/DeBruijn_Bind.pdf?raw=true) | [PPTX Format](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/DeBruijn_Bind.pptx?raw=true)
 * [Rob Stewart: Multi-Threading With C++11 and Boost](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/mt_with_cpp.pdf?raw=true)
@@ -65,7 +65,7 @@ Note: some of the presentations exceed GitHub's blob size limit of about 10MB.  
 * [Zoltan Porkolab: Debugging and Profiling C++ Template Metaprograms](https://github.com/boostcon/cppnow_presentations_2013/blob/master/thu/tmpdebug_cppnow13.pdf?raw=true)
 
 ## Friday
-* Jeff Garland: Library in a Week: C++11 & Boost Cookbook (V)
+* Jeff Garland: Library in a Week: C++11 & Boost Cookbook (V) | [Cookbook Website](https://github.com/rtsuk/liaw2013/wiki/)
 * [Richard Saunders, Clinton Jeffery: Dynamic, Recursive, Heterogeneous Types in Statically-Typed Languages](https://github.com/boostcon/cppnow_presentations_2013/blob/master/fri/DynRec.pdf?raw=true)
 * [Julian Storer: The Projucer: Live coding with C++ and the LLVM JIT engine](https://github.com/boostcon/cppnow_presentations_2013/blob/master/fri/projucer.pdf?raw=true)
 * [Bart Janssens: Building finite-element matrix expressions with Boost Proto and the Eigen library](https://github.com/boostcon/cppnow_presentations_2013/blob/master/fri/proto-eigen-fem.pdf?raw=true) | [Sample Code](http://github.com/barche/eigen-proto)
